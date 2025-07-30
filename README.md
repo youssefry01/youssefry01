@@ -12,6 +12,8 @@ I'm a passionate **Computer Engineering** student at *Modern Academy for Enginee
 
 - 🎓 Recently completed the *Machine Learning with Python* course by **AMIT Learning**, in partnership with my university.
 
+📄 [Check out my Resume.](./Youssef Ramadan Youssef Resume.pdf)
+
 <p align="center">
   <!-- Linktree -->
   <a href="https://linktr.ee/youssefry" target="_blank">
