@@ -5,13 +5,16 @@ I'm a **Computer Engineering** student at *Modern Academy for Engineering and Te
 ## About Me
 
 - 💻 Experienced in building and deploying **full-stack web applications** using **MERN**, **Django** and **PERN** stacks.  
+
 - 🌐 Skilled in designing **REST APIs**, **authentication systems**, **database schemas**, and **responsive frontend interfaces**.  
+
 - 📦 Hands-on with **Python**, **JavaScript/TypeScript**, **React**, **Node.js**, **Express**, and **PostgreSQL/MongoDB/MySQL**.  
+
 - 🔍 Interested in **learning new technologies**, optimizing web systems, and collaborating on real-world projects.  
 
 📄 [Check out my Resume.](./Resume.pdf)
 
-<p align="center">
+<p align="center">git p
   <!-- Linktree -->
   <a href="https://linktr.ee/yousseframadan" target="_blank">
     <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
