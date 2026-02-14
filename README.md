@@ -1,27 +1,24 @@
-# 👋 About Me
+# Hi, I'm Youssef 👋
 
-## Youssef Ramadan Youssef
+I'm a **Computer Engineering** student at *Modern Academy for Engineering and Technology*, passionate about **Full-Stack Web Development** and building production-ready applications.
 
-I'm a passionate **Computer Engineering** student at *Modern Academy for Engineering and Technology*, with a strong interest in **Machine Learning**, **Data Science**, and **Full-Stack Web Development**.
+## About Me
 
-- 💡 I enjoy building real-world applications and learning through hands-on projects.  
-
-- 🔍 Focused on developing skills in **Python**, **ML/DL frameworks** (Scikit-learn, PyTorch), and the **MERN Stack**.  
-
-- 🚀 Always exploring new technologies and open to collaboration on exciting tech challenges.  
-
-- 🎓 Recently completed the *Machine Learning with Python* course by **AMIT Learning**, in partnership with my university.
+- 💻 Experienced in building and deploying **full-stack web applications** using **MERN**, **Django** and **PERN** stacks.  
+- 🌐 Skilled in designing **REST APIs**, **authentication systems**, **database schemas**, and **responsive frontend interfaces**.  
+- 📦 Hands-on with **Python**, **JavaScript/TypeScript**, **React**, **Node.js**, **Express**, and **PostgreSQL/MongoDB/MySQL**.  
+- 🔍 Interested in **learning new technologies**, optimizing web systems, and collaborating on real-world projects.  
 
 📄 [Check out my Resume.](./Resume.pdf)
 
 <p align="center">
   <!-- Linktree -->
-  <a href="https://linktr.ee/youssefry" target="_blank">
+  <a href="https://linktr.ee/yousseframadan" target="_blank">
     <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
   </a>
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/yousseframadan/" target="_blank">
+  <a href="https://www.linkedin.com/in/youssefry/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
