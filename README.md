@@ -26,7 +26,7 @@ I'm a **Computer Engineering** student at *Modern Academy for Engineering and Te
   </a>
 
   <!-- Portfolio -->
-  <a href="https://youssefry.wixsite.com/portfolio" target="_blank">
+  <a href="https://yousseframadan-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio"/>
   </a>
 
@@ -36,7 +36,7 @@ I'm a **Computer Engineering** student at *Modern Academy for Engineering and Te
   </a>
 
   <!-- Email -->
-  <a href="mailto:youssefry01@gmail.com" target="_blank">
+  <a href="mailto:yousseframadan@proton.me" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
