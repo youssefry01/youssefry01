@@ -8,7 +8,7 @@ I'm a **Computer Engineering** student at *Modern Academy for Engineering and Te
 
 - 🌐 Skilled in designing **REST APIs**, **authentication systems**, **database schemas**, and **responsive frontend interfaces**.  
 
-- 📦 Hands-on with **Python**, **JavaScript/TypeScript**, **React**, **Node.js**, **Express**, and **PostgreSQL/MongoDB/MySQL**.  
+- 📦 Hands-on with **Next.js**, **React**, , **Node.js**, **Express**, **JavaScript/TypeScript**, and **PostgreSQL/MongoDB/MySQL**.  
 
 - 🔍 Interested in **learning new technologies**, optimizing web systems, and collaborating on real-world projects.  
 
